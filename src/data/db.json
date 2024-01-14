@@ -1,0 +1,28 @@
+{
+  "bikingData": [
+    {
+      "id": "1",
+      "rideName": "Bike Ride 12",
+      "goalDistanceMeters": "1000",
+      "totalDistanceMeters": "900",
+      "rideDurationMinutes": "123",
+      "rideDate": "2023-12-01"
+    },
+    {
+      "id": "2",
+      "rideName": "Bike Ride 2",
+      "goalDistanceMeters": "1312",
+      "totalDistanceMeters": "123",
+      "rideDurationMinutes": "123",
+      "rideDate": "2024-01-10"
+    },
+    {
+      "id": "3",
+      "rideName": "Bike Ride 3",
+      "goalDistanceMeters": "480",
+      "totalDistanceMeters": "480",
+      "rideDurationMinutes": "100",
+      "rideDate": "2023-06-01"
+    }
+  ]
+}
