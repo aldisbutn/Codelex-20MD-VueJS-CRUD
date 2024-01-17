@@ -40,7 +40,7 @@ const handleEditRide = async () => {
   toast.success('Ride edited!')
   if (editedRide) {
     await editRide(editedRide.id, editedRide)
-    //router.go(0)
+    router.go(0)
   }
 
 }
