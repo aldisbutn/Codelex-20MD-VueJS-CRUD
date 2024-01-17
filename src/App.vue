@@ -4,8 +4,15 @@ import RideHeader from './components/RideHeader.vue'
 </script>
 
 <template>
-  <RideHeader/>
-  <RouterView />
+  <RideHeader />
+  <div class="appWindow">
+    <RouterView />
+  </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.appWindow {
+  display: flex;
+  justify-content: center;
+}
+</style>

@@ -2,27 +2,339 @@
   "bikingData": [
     {
       "id": "1",
-      "rideName": "Bike Ride 12",
-      "goalDistanceMeters": "1000",
-      "totalDistanceMeters": "900",
-      "rideDurationMinutes": "123",
+      "rideName": "Ride through Riga",
+      "goalDistanceMeters": "10000",
+      "totalDistanceMeters": "9000",
+      "rideDurationMinutes": "20",
       "rideDate": "2023-12-01"
     },
     {
       "id": "2",
-      "rideName": "Bike Ride 2",
-      "goalDistanceMeters": "1312",
-      "totalDistanceMeters": "123",
-      "rideDurationMinutes": "123",
+      "rideName": "Ride to the office",
+      "goalDistanceMeters": "35000",
+      "totalDistanceMeters": "43214",
+      "rideDurationMinutes": "120",
       "rideDate": "2024-01-10"
     },
     {
       "id": "3",
-      "rideName": "Bike Ride 3",
-      "goalDistanceMeters": "480",
-      "totalDistanceMeters": "480",
-      "rideDurationMinutes": "100",
+      "rideName": "Late night ride",
+      "goalDistanceMeters": "4700",
+      "totalDistanceMeters": "4800",
+      "rideDurationMinutes": "60",
       "rideDate": "2023-06-01"
+    },
+    {
+      "id": "4",
+      "rideName": "Weekend adventure",
+      "goalDistanceMeters": "25000",
+      "totalDistanceMeters": "19876",
+      "rideDurationMinutes": "90",
+      "rideDate": "2023-09-15"
+    },
+    {
+      "id": "5",
+      "rideName": "City exploration",
+      "goalDistanceMeters": "15000",
+      "totalDistanceMeters": "16500",
+      "rideDurationMinutes": "45",
+      "rideDate": "2023-11-20"
+    },
+    {
+      "id": "6",
+      "rideName": "Morning commute",
+      "goalDistanceMeters": "8000",
+      "totalDistanceMeters": "7543",
+      "rideDurationMinutes": "25",
+      "rideDate": "2024-02-05"
+    },
+    {
+      "id": "7",
+      "rideName": "Scenic route",
+      "goalDistanceMeters": "20000",
+      "totalDistanceMeters": "21543",
+      "rideDurationMinutes": "75",
+      "rideDate": "2023-07-08"
+    },
+    {
+      "id": "8",
+      "rideName": "Afternoon spin",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "11000",
+      "rideDurationMinutes": "30",
+      "rideDate": "2023-04-12"
+    },
+    {
+      "id": "9",
+      "rideName": "Countryside tour",
+      "goalDistanceMeters": "18000",
+      "totalDistanceMeters": "17234",
+      "rideDurationMinutes": "60",
+      "rideDate": "2023-10-05"
+    },
+    {
+      "id": "10",
+      "rideName": "Evening ride",
+      "goalDistanceMeters": "6000",
+      "totalDistanceMeters": "5987",
+      "rideDurationMinutes": "15",
+      "rideDate": "2023-02-28"
+    },
+    {
+      "id": "11",
+      "rideName": "Coastal cruise",
+      "goalDistanceMeters": "30000",
+      "totalDistanceMeters": "28876",
+      "rideDurationMinutes": "110",
+      "rideDate": "2023-08-20"
+    },
+    {
+      "id": "12",
+      "rideName": "Sprint challenge",
+      "goalDistanceMeters": "8000",
+      "totalDistanceMeters": "8156",
+      "rideDurationMinutes": "18",
+      "rideDate": "2023-03-15"
+    },
+    {
+      "id": "13",
+      "rideName": "Mountain trail",
+      "goalDistanceMeters": "22000",
+      "totalDistanceMeters": "20432",
+      "rideDurationMinutes": "80",
+      "rideDate": "2023-05-25"
+    },
+    {
+      "id": "14",
+      "rideName": "Urban exploration",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "13245",
+      "rideDurationMinutes": "50",
+      "rideDate": "2023-01-05"
+    },
+    {
+      "id": "15",
+      "rideName": "Nighttime cityscape",
+      "goalDistanceMeters": "10000",
+      "totalDistanceMeters": "9786",
+      "rideDurationMinutes": "35",
+      "rideDate": "2023-09-30"
+    },
+    {
+      "id": "16",
+      "rideName": "Autumn ride",
+      "goalDistanceMeters": "16000",
+      "totalDistanceMeters": "14567",
+      "rideDurationMinutes": "55",
+      "rideDate": "2023-11-10"
+    },
+    {
+      "id": "17",
+      "rideName": "Foggy morning",
+      "goalDistanceMeters": "9000",
+      "totalDistanceMeters": "9123",
+      "rideDurationMinutes": "22",
+      "rideDate": "2024-03-02"
+    },
+    {
+      "id": "18",
+      "rideName": "Springtime joyride",
+      "goalDistanceMeters": "14000",
+      "totalDistanceMeters": "13876",
+      "rideDurationMinutes": "40",
+      "rideDate": "2023-04-25"
+    },
+    {
+      "id": "19",
+      "rideName": "Historical landmarks",
+      "goalDistanceMeters": "18000",
+      "totalDistanceMeters": "19543",
+      "rideDurationMinutes": "70",
+      "rideDate": "2023-08-05"
+    },
+    {
+      "id": "20",
+      "rideName": "Sunset ride",
+      "goalDistanceMeters": "7000",
+      "totalDistanceMeters": "6987",
+      "rideDurationMinutes": "17",
+      "rideDate": "2024-03-15"
+    },
+    {
+      "id": "21",
+      "rideName": "Cozy countryside",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "11876",
+      "rideDurationMinutes": "38",
+      "rideDate": "2023-05-08"
+    },
+    {
+      "id": "22",
+      "rideName": "Summer breeze",
+      "goalDistanceMeters": "18000",
+      "totalDistanceMeters": "18654",
+      "rideDurationMinutes": "65",
+      "rideDate": "2023-07-22"
+    },
+    {
+      "id": "23",
+      "rideName": "Morning fog ride",
+      "goalDistanceMeters": "9000",
+      "totalDistanceMeters": "8876",
+      "rideDurationMinutes": "28",
+      "rideDate": "2024-01-20"
+    },
+    {
+      "id": "24",
+      "rideName": "Exploration challenge",
+      "goalDistanceMeters": "25000",
+      "totalDistanceMeters": "24123",
+      "rideDurationMinutes": "95",
+      "rideDate": "2023-11-28"
+    },
+    {
+      "id": "25",
+      "rideName": "Twilight ride",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "12345",
+      "rideDurationMinutes": "42",
+      "rideDate": "2023-03-28"
+    },
+    {
+      "id": "26",
+      "rideName": "Sunrise adventure",
+      "goalDistanceMeters": "20000",
+      "totalDistanceMeters": "19876",
+      "rideDurationMinutes": "60",
+      "rideDate": "2023-06-15"
+    },
+    {
+      "id": "27",
+      "rideName": "Hilltop challenge",
+      "goalDistanceMeters": "15000",
+      "totalDistanceMeters": "15234",
+      "rideDurationMinutes": "48",
+      "rideDate": "2023-09-08"
+    },
+    {
+      "id": "28",
+      "rideName": "Moonlit ride",
+      "goalDistanceMeters": "10000",
+      "totalDistanceMeters": "10432",
+      "rideDurationMinutes": "33",
+      "rideDate": "2023-02-15"
+    },
+    {
+      "id": "29",
+      "rideName": "Festive ride",
+      "goalDistanceMeters": "18000",
+      "totalDistanceMeters": "17876",
+      "rideDurationMinutes": "55",
+      "rideDate": "2023-12-20"
+    },
+    {
+      "id": "30",
+      "rideName": "Crisp winter ride",
+      "goalDistanceMeters": "8000",
+      "totalDistanceMeters": "7543",
+      "rideDurationMinutes": "27",
+      "rideDate": "2024-01-05"
+    },
+    {
+      "id": "31",
+      "rideName": "Riverfront ride",
+      "goalDistanceMeters": "22000",
+      "totalDistanceMeters": "22876",
+      "rideDurationMinutes": "70",
+      "rideDate": "2023-07-02"
+    },
+    {
+      "id": "32",
+      "rideName": "Holiday joyride",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "11876",
+      "rideDurationMinutes": "35",
+      "rideDate": "2023-12-25"
+    },
+    {
+      "id": "33",
+      "rideName": "Historical city tour",
+      "goalDistanceMeters": "16000",
+      "totalDistanceMeters": "16876",
+      "rideDurationMinutes": "50",
+      "rideDate": "2023-10-20"
+    },
+    {
+      "id": "34",
+      "rideName": "First snow ride",
+      "goalDistanceMeters": "10000",
+      "totalDistanceMeters": "9786",
+      "rideDurationMinutes": "30",
+      "rideDate": "2023-12-05"
+    },
+    {
+      "id": "35",
+      "rideName": "Seaside sunset",
+      "goalDistanceMeters": "15000",
+      "totalDistanceMeters": "14567",
+      "rideDurationMinutes": "48",
+      "rideDate": "2023-08-28"
+    },
+    {
+      "id": "36",
+      "rideName": "City lights ride",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "12234",
+      "rideDurationMinutes": "40",
+      "rideDate": "2023-11-05"
+    },
+    {
+      "id": "37",
+      "rideName": "Sunny afternoon",
+      "goalDistanceMeters": "18000",
+      "totalDistanceMeters": "18234",
+      "rideDurationMinutes": "60",
+      "rideDate": "2023-06-10"
+    },
+    {
+      "id": "38",
+      "rideName": "Winter wonderland",
+      "goalDistanceMeters": "8000",
+      "totalDistanceMeters": "8123",
+      "rideDurationMinutes": "25",
+      "rideDate": "2024-02-10"
+    },
+    {
+      "id": "39",
+      "rideName": "New Year's ride",
+      "goalDistanceMeters": "10000",
+      "totalDistanceMeters": "9786",
+      "rideDurationMinutes": "35",
+      "rideDate": "2024-01-01"
+    },
+    {
+      "id": "40",
+      "rideName": "Spring blossoms ride",
+      "goalDistanceMeters": "12000",
+      "totalDistanceMeters": "11876",
+      "rideDurationMinutes": "38",
+      "rideDate": "2023-04-15"
+    },
+    {
+      "id": "09f1f5d0-b52a-11ee-bece-f546e98b1113",
+      "rideName": "Tester221222",
+      "goalDistanceMeters": "11",
+      "totalDistanceMeters": "1231232",
+      "rideDurationMinutes": "11",
+      "rideDate": "2024-01-11"
+    },
+    {
+      "id": "3ed64df0-b52a-11ee-95e4-cdd497c2944c",
+      "rideName": "1312",
+      "goalDistanceMeters": "3123123",
+      "totalDistanceMeters": "123123",
+      "rideDurationMinutes": "123123",
+      "rideDate": "2024-01-13"
     }
   ]
 }
