@@ -8,8 +8,16 @@ VueJS CRUD application designed to monitor bike rides. You can input details suc
 npm install
 ```
 
+### Start json server
+```sh
+json-server --watch data/db.json
+```
+
 ### Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
+
+
+
