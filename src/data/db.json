@@ -319,22 +319,6 @@
       "totalDistanceMeters": "11876",
       "rideDurationMinutes": "38",
       "rideDate": "2023-04-15"
-    },
-    {
-      "id": "09f1f5d0-b52a-11ee-bece-f546e98b1113",
-      "rideName": "Tester221222",
-      "goalDistanceMeters": "11",
-      "totalDistanceMeters": "1231232",
-      "rideDurationMinutes": "11",
-      "rideDate": "2024-01-11"
-    },
-    {
-      "id": "3ed64df0-b52a-11ee-95e4-cdd497c2944c",
-      "rideName": "1312",
-      "goalDistanceMeters": "3123123",
-      "totalDistanceMeters": "123123",
-      "rideDurationMinutes": "123123",
-      "rideDate": "2024-01-13"
     }
   ]
 }
