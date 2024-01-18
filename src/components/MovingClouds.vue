@@ -25,18 +25,6 @@
 <script setup lang="ts"></script>
 
 <style scoped>
-body {
-  background: #00b4ff;
-  color: #333;
-  font:
-    100% Arial,
-    Sans Serif;
-  height: 100vh;
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-}
-
 #background-wrap {
   bottom: 0;
   left: 0;

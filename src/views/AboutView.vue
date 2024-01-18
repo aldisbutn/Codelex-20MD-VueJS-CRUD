@@ -2,6 +2,7 @@
   <MovingClouds/>
   <div class="aboutWrapper">
     <h2 class="aboutHeading" style="text-align: center">About Pedal Track App</h2>
+    <br>
     <p class="aboutParagraph">
       Welcome to Pedal Track – the ultimate app for effortless bike ride tracking! Developed by
       Aldis Poga using the power of Vue.js, Pedal Track is your companion for achieving biking goals
